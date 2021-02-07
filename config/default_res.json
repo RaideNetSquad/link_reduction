@@ -1,6 +1,0 @@
-{
-    "port": 5051,
-    "jwt_secret": "s[pdokiuhipdpe0giujf;oefgf[iujlfrvighlifrvgfinjofrvkgfjlfkv0omjklrvkmgkfvomvk;fvkfomkev",
-    "mongoURI": "mongodb+srv://ivan:12345IGOYOUKILLqazwsxedc@cluster0.unzi5.mongodb.net/app?retryWrites=true&w=majority",
-    "baseURL": "http://localhost:5051"
-}    
