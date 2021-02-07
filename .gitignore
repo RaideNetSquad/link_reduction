@@ -1,2 +1,6 @@
 node_modules
 .idea
+
+./config/default.json
+config/default.json
+default.json
